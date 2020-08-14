@@ -18,7 +18,6 @@ def div(v1, v2):
     return
 
 
-
 valid_input = False
 
 num1 = float(input("Enter a number: "))
